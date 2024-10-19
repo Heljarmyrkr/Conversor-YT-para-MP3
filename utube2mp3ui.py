@@ -63,7 +63,7 @@ label = customtkinter.CTkLabel(master=frame,
 label.place(relx=0.01,rely=0.96,anchor="w")
 
 
-# Campo de entrada para o link
+#Campo de entrada para o link
 user_entry= customtkinter.CTkEntry(master=frame,
                                    placeholder_text="Insert youtube link here to convert: "
                                                     "\"https://www.youtube.com/watch...\"" ,
