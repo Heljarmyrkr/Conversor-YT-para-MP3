@@ -84,6 +84,3 @@ button = customtkinter.CTkButton(master=frame,
 button.place(relx=0.5,rely=0.7,anchor="center")
 
 window.mainloop()
-
-
-
