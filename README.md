@@ -1,3 +1,19 @@
-# Conversor-YT-para-MP3
-Esse projeto eu fiz bem rápido, mais tarde vou arrumar ele, adicionar algumas funções como a de escolher onde você quer salvar o arquivo MP3, e claro, dar um visual melhor!
-Pode haver bugs, mas é funcional, ele vai salvar o video que você quiser em MP3, sinta-se livre para poder usar caso queira, é uma alternativa melhor que alguns sites, devido não ter propagandas e ser razoavelmente rápido.
+# Utube2MP3v0.2.0(Beta)
+
+<p align="center">
+  <img src="Images/logo.png" alt="Imagem">
+</p>
+
+A simple GUI application for downloading YouTube videos and converting them to MP3 format.
+
+## Features
+- 🎥 Download audio from YouTube videos.
+- 🔄 Convert videos to MP3 format.
+- 🌐 Easy-to-use interface.
+
+<p align="center">
+  <img src="Images/pic1.png" alt="Imagem">
+</p>
+
+**Planned Features**:
+- ⚙️ Multi-language support (English, French, German, and Portuguese).
